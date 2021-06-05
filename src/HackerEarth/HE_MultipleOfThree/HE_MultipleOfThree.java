@@ -40,7 +40,6 @@ class Solver {
         }
         String[] arr = input.split("");
         String[] arrN = new String[arr.length + 1];
-        arrN[0] = "0";
 
         for(int i = 1; i < arrN.length; i++)
         {
